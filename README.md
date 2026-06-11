@@ -1,7 +1,4 @@
 HEAD
-# PortScanner-Automator
-# PortScanner-Automator
-
 # PortScanner-Automator 🔎
 
 A basic Python script to scan open ports on a target IP address or domain using multi-threading.
